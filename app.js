@@ -30,7 +30,7 @@ const P=[
 ["sariq-bolak","Tortlar","Boʻlak tort","Bir kishilik boʻlaklar, choyga yoki mehmonlarga.",18000,"boʻlak"],
 ["rulet","Pirog va rulet","Shokoladli rulet","Yumshoq biskvit, shokolad naqshi, ichida krem.",80000,"dona"],
 ["pirog","Pirog va rulet","Murabboli pirog","Pudra shakar sepilgan, ichi murabbo.",60000,"kg"],
-["tort-oq","Pirog va rulet","Pudrali dumaloq pirog","Uyda pishirilgan, quti ichida tayyor beriladi.",70000,"dona"],
+["tort-oq","Pirog va rulet","Pudrali dumaloq pirog","Uyda pishirilgan, quti ichida tayyor beriladi.",50000,"dona"],
 ["ekler","Pishiriqlar","Qaymoqli ekler","Qarsildoq, tilla rang, ichi qaymoqqa toʻla.",4000,"dona"],
 ["kapkeyk","Pishiriqlar","Pistali kapkeyk","Yengil kapkeyklar, ustida pista. Sovgʻa paketida.",35000,"kg"],
 ["keks","Pishiriqlar","Yongʻoqli keks","Pista, yongʻoq va mayiz sepilgan uy keksi.",45000,"kg"],
